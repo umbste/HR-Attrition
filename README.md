@@ -38,9 +38,11 @@ During my internship at MeriSKILL, I embarked on an exciting project, this time 
 4. In general, the company should put in place measures to reduce employee attrition.
 
 See below dataset in CSV format.
+
 [HR-Employee-Attrition.csv](https://github.com/umbste/HR-Attrition/files/13273318/HR-Employee-Attrition.csv)
 
 HR Dashboard in Power BI (jpeg format)
+
 <img width="645" alt="HR Attrition Dashboard" src="https://github.com/umbste/HR-Attrition/assets/149257180/7060ffe8-1b38-43ee-94f9-7bcdf4156337">
 
 
