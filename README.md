@@ -10,7 +10,7 @@ During my internship at MeriSKILL, I embarked on an exciting project, this time 
 - Removing NaN values was a critical step in maintaining the quality of the dataset.
 
 📊 Data Visualization:
-- To provide a comprehensive view, I created visualizations for various factors that impact attrition:
+To provide a comprehensive view, I created visualizations for various factors that impact attrition:
  - Overtime: Examining the influence of overtime work on attrition.
  - Marital Status: Assessing how marital status affects attrition rates.
  - Job Role: Identifying which job roles are more prone to attrition.
